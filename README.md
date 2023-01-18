@@ -10,9 +10,6 @@
 - 📝 I recently started write articles on [https://blog.openreplay.com/](https://blog.openreplay.com/)
 
 - ⚡ Hobbies I love to play **chess** and also document code
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
