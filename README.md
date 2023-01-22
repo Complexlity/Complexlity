@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://complexlity-personal-portfolio.netlify.app/](https://complexlity-personal-portfolio.netlify.app/)
 
-- 📝 I recently started to write articles on [https://blog.openreplay.com/](https://blog.openreplay.com/)
-
 - ⚡ Hobbies I love to play **chess** and also document code
 </p>
 
