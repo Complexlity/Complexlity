@@ -18,7 +18,8 @@
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>   </p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=complexlity&show_icons=true&locale=en&layout=compact" alt="complexlity" /></p>
-![Complexlity's GitHub stats](https://github-readme-stats.vercel.app/api?username=complexlity&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=complexlity&show_icons=true&theme=radical" alt="complexlity" /></p>
+
 
 
 
