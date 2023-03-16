@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Complexlity</h1>
-<h3 align="center">A front-end developer and technical writer building the web as you know it</h3>
+<h3 align="center">A front-end developer and technical writer. Building the web as you know it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=complexlity&label=Profile%20views&color=0e75b6&style=flat" alt="complexlity" /> </p>
 
