@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Complexlity</h1>
-<h3 align="center">A front-end developer and technical writer passionate about computers</h3>
+<h3 align="center">A front-end developer and technical writer building the web as you know it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=complexlity&label=Profile%20views&color=0e75b6&style=flat" alt="complexlity" /> </p>
 
-- 🌱 I’m currently expanding my knowledge on **React and frameworks surrounding it**
+- 🌱 Expanding my knowledge on **React**
 
 - 👨‍💻 All of my projects are available at [My Portofolio Website](https://complexlity-personal-portfolio.netlify.app/)
 
