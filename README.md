@@ -5,7 +5,7 @@
 
 - 🌱 Expanding my knowledge on **React**
 
-- 👨‍💻 All of my projects are available at [My Portofolio Website](https://complexlity-personal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portofolio Website](https://complexlity.vercel.app/)
 
 - ⚡ Hobbies I love to play **chess** and also document code
 </p>
