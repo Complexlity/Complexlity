@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Complexlity</h1>
-<h3 align="center">A front-end developer and technical writer. Building the web as you know it</h3>
+<h3 align="center">The Web Guru. Frames Builder 001</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=complexlity&label=Profile%20views&color=0e75b6&style=flat" alt="complexlity" /> </p>
 
 - 🌱 Expanding my knowledge on **React**
 
-- 👨‍💻 All of my projects are available at [My Portofolio Website](https://complexlity.dev/)
+- 👨‍💻 Check out some of my stuff at [My Portofolio Website](https://complexlity.dev/)
 
 - ⚡ Hobbies I love to play **chess** and also document code
 </p>
