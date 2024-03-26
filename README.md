@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=complexlity&label=Profile%20views&color=0e75b6&style=flat" alt="complexlity" /> </p>
 
-- 🌱 Expanding my knowledge on **React**
+- 🌱 Always building stuff
 
 - 👨‍💻 Check out some of my stuff at [My Portofolio Website](https://complexlity.dev/)
 
